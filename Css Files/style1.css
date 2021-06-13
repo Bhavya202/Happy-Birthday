@@ -1,0 +1,20 @@
+*{
+    background-color: lightpink;
+}
+
+#card{
+    position: absolute;
+    left: 30%;
+    top: 10%;
+}
+
+#card1{
+    position: absolute;
+    margin-top: 15%;
+}
+
+#card2{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 75%;
+}
